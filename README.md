@@ -1,6 +1,7 @@
 # Prolog-CardGame
  
-The game start with cards as 4x4 matrix form. [_ _ _ _ <br />
+The game start with cards as 4x4 matrix form. 
+[_ _ _ _ <br />
 					                                          _ _ _ _ <br />
 					                                          _ _ _ _ <br />
 					                                          _ _ _ _]		in this form.<br />
