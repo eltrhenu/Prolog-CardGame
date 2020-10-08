@@ -1,10 +1,10 @@
 # Prolog-CardGame
  
-The game start with cards as 4x4 matrix form. 
+The game start with cards as 4x4 matrix form. <br />
 [_ _ _ _ <br />
 					                                          _ _ _ _ <br />
 					                                          _ _ _ _ <br />
-					                                          _ _ _ _]		in this form.<br />
+					                                          _ _ _ _]		(in this form.)<br />
 Cards are lined up in the code. It is start with main(0.0) command. We're expecting that when you see the <br />
 "Please inputs your input data x to play game:" line, give an integer as an input and put the dot at the end.<br />
 ("Please inputs your input data x to play game: 1.") and "Please inputs your input data y to play game:", <br />
